@@ -7,6 +7,7 @@ This document provides step-by-step instructions on how to set up the VS Code Re
 
 Before you begin, make sure you have the following:
 
+- CSL Username. If you don't know your CSL username, navigate to this website [CSL UW-Madison](csl.cs.wisc.edu), then click at "MY CS ACCOUNT". Follow instructions. Your CSL username should be under "CS Username"  
 - A working installation of Visual Studio Code (VS Code) can be downloaded through the [VS Code Download](code.visualstudio.com)
 - Navigate to your extensions tab of VSCode on the left hand tool bar. Search for "Remote - SSH" and download the extension onto your machine. Further instructions below.
 
