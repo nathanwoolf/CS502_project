@@ -20,7 +20,12 @@ Before you begin, make sure you have the following:
     - Search for "Remote - SSH" in the Extensions view search bar.
     - Click on the "Remote - SSH" extension by Microsoft and click the "Install" button.
 
+    ![Remote - SSH Extension](/Pictures/extension.png)
+
 3. Once the extension is installed, naviagte to settings. Check the boxes for "Remote.SSH: Lockfiles In Tmp" and "Remote.SSH: Show Login Terminal"
+    ![Settings - Lockfiles in Tmp](/Pictures/lockfiles.png)
+
+    ![Settings - Show Login Terminal](/Pictures/showlogin.png)
 
 4. You will notice you have a new tab in the toolbar on the left hand side of your VS Code window. Click on the tab that corresponds to your Remote SSH tool.
 
